@@ -1,3 +1,14 @@
+# File: Creating_an_array_of_spiral_form_using_lists_in_Python.py
+# Description: Graphic representation of program in Python
+# Environment: PyCharm and Anaconda environment
+#
+# MIT License
+# Copyright (c) 2018 Valentyn N Sichkar
+# github.com/sichkar-valentyn
+#
+# Reference to:
+# [1] Valentyn N Sichkar. Using lists create an array of spiral form in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Creating_an_array_of_spiral_form_using_lists_in_Python (date of access: XX.XX.XXXX)
+
 # Creating an array of n by n size, filled with numbers from 1 to n ** 2 by spiral direction
 n = int(input())  # Size of the array
 
