@@ -1,6 +1,9 @@
 # Creating an array of spiral form using lists in_Python
 Using lists create an array of spiral form in Python
 
+### Courses:
+* Explore the course **"Convolutional Neural Networks for Image Classification"** here: https://stepik.org/course/53801/promo
+
 ### Reference to:
 [1] Valentyn N Sichkar. Using lists create an array of spiral form in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Creating_an_array_of_spiral_form_using_lists_in_Python (date of access: XX.XX.XXXX)
 
